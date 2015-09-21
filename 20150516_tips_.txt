@@ -1,5 +1,5 @@
 
 서브라임텍스트
-command + alt(option) + f 
+String str = command + alt(option) + f ;
 
-안녕하세요. 소개팅하실래요!
+안녕하세요. 소개팅(♥)하실래요! 
